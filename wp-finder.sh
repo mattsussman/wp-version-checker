@@ -22,7 +22,7 @@ do
 done
 }
 
-output=/tmp/wp_outdated
+output=/tmp/wp_outdated.txt
 tempf1=/tmp/search_wp
 tempf2=/tmp/temp_output
 conf=/usr/local/apache/conf/httpd.conf
