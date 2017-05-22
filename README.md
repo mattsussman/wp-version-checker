@@ -6,4 +6,4 @@ Open the file and edit the below lines in wp-finder.sh file to activate "output 
 
 sendmail=1   #Replace 1 with 0 to deactivate
 
-email=user@yourdomain.com  #Repalce with your email address
+email=user@yourdomain.com  #Repalce "user@yourdomain.com" with your email address
